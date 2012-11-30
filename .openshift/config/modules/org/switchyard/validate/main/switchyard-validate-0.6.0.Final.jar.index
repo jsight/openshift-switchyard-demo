@@ -1,0 +1,14 @@
+
+org/switchyard/validate/xml
+org/switchyard/config
+META-INF/maven
+org
+org/switchyard/validate/config/model/v1
+META-INF
+org/switchyard/validate/config
+org/switchyard/config/model
+META-INF/maven/org.switchyard
+org/switchyard/validate/config/model
+org/switchyard
+org/switchyard/validate
+META-INF/maven/org.switchyard/switchyard-validate

@@ -1,0 +1,15 @@
+
+org/switchyard/handlers
+org/switchyard/spi
+META-INF/maven
+org/switchyard/internal/transform
+org/switchyard/runtime
+org
+META-INF
+META-INF/maven/org.switchyard/switchyard-runtime
+org/switchyard/internal
+META-INF/maven/org.switchyard
+META-INF/services
+org/switchyard
+org/switchyard/internal/validate
+org/switchyard/runtime/event

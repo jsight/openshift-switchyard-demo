@@ -1,0 +1,14 @@
+
+org/apache/ode
+META-INF/maven/org.jboss.soa.bpel
+META-INF/maven
+org/apache/ode/ql/jcc
+org
+META-INF
+org/apache/ode/ql/eval
+org/apache
+org/apache/ode/ql/tree
+org/apache/ode/ql/tree/nodes
+META-INF/maven/org.jboss.soa.bpel/riftsaw-bpel-ql
+org/apache/ode/ql/eval/skel
+org/apache/ode/ql

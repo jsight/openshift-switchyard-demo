@@ -1,0 +1,15 @@
+
+org/drools/persistence/map
+META-INF/maven
+META-INF/maven/org.drools/drools-persistence-jpa
+org/drools/persistence/jta
+org
+org/drools/persistence
+META-INF
+org/drools/persistence/info
+org/drools
+org/drools/persistence/jpa
+org/drools/persistence/osgi
+org/drools/persistence/jpa/processinstance
+META-INF/maven/org.drools
+org/drools/persistence/jpa/marshaller

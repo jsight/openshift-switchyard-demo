@@ -1,0 +1,17 @@
+
+org/apache/camel/component/file/remote
+META-INF/services/org/apache/camel
+META-INF/maven
+META-INF/services/org
+org/apache/camel
+org
+META-INF
+org/apache/camel/component/file/remote/strategy
+META-INF/services/org/apache/camel/component
+META-INF/maven/org.apache.camel
+org/apache/camel/component/file
+org/apache
+META-INF/services/org/apache
+org/apache/camel/component
+META-INF/services
+META-INF/maven/org.apache.camel/camel-ftp

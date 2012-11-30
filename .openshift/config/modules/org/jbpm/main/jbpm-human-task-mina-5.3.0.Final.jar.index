@@ -1,0 +1,13 @@
+
+org/jbpm
+META-INF/maven/org.jbpm
+META-INF/maven
+org
+META-INF
+org/jbpm/process
+org/jbpm/task/service
+org/jbpm/process/workitem
+org/jbpm/task
+org/jbpm/process/workitem/wsht
+META-INF/maven/org.jbpm/jbpm-human-task-mina
+org/jbpm/task/service/mina

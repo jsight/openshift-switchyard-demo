@@ -1,0 +1,8 @@
+org/apache/batik/bridge/svg12
+
+org/apache
+org/apache/batik
+org
+org/apache/batik/bridge
+META-INF
+org/apache/batik/bridge/resources

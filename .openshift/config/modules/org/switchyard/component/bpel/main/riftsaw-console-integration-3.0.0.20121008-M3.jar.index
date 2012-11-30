@@ -1,0 +1,13 @@
+
+org/jboss/soa
+org/jboss
+META-INF/maven
+org/jboss/soa/bpel/console/json
+org
+META-INF
+org/jboss/soa/bpel
+META-INF/maven/org.riftsaw.console
+org/jboss/soa/bpel/console/util
+META-INF/services
+org/jboss/soa/bpel/console
+META-INF/maven/org.riftsaw.console/riftsaw-console-integration

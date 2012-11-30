@@ -1,0 +1,13 @@
+
+org/switchyard/security/principal
+META-INF/maven
+META-INF/maven/org.switchyard/switchyard-security
+org
+META-INF
+org/switchyard/security
+org/switchyard/security/credential
+META-INF/maven/org.switchyard
+META-INF/services
+org/switchyard
+org/switchyard/security/credential/extract
+org/switchyard/security/callback

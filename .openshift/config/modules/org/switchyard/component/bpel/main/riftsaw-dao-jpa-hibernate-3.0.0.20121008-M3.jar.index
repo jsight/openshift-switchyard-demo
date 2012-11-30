@@ -1,0 +1,11 @@
+org/apache/ode
+
+META-INF/maven/org.jboss.soa.bpel
+org/apache/ode/dao/jpa/hibernate
+org/apache/ode/dao/jpa
+org/apache
+META-INF/maven/org.jboss.soa.bpel/riftsaw-dao-jpa-hibernate
+META-INF/maven
+org/apache/ode/dao
+org
+META-INF

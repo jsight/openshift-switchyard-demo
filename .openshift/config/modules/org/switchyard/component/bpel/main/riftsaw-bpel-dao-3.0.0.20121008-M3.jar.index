@@ -1,0 +1,12 @@
+org/apache/ode
+
+META-INF/maven/org.jboss.soa.bpel
+org/apache/ode/dao/scheduler
+org/apache
+META-INF/maven
+org/apache/ode/dao
+META-INF/maven/org.jboss.soa.bpel/riftsaw-bpel-dao
+org/apache/ode/dao/bpel
+org
+META-INF
+org/apache/ode/dao/store

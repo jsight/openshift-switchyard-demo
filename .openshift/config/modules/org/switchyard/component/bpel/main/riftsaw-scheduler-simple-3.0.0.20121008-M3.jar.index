@@ -1,0 +1,11 @@
+org/apache/ode
+
+META-INF/maven/org.jboss.soa.bpel
+org/apache
+META-INF/maven
+org/apache/ode/scheduler/simple/jdbc
+META-INF/maven/org.jboss.soa.bpel/riftsaw-scheduler-simple
+org/apache/ode/scheduler/simple
+org/apache/ode/scheduler
+org
+META-INF

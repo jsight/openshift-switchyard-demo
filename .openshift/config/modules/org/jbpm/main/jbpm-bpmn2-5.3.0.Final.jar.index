@@ -1,0 +1,15 @@
+
+org/jbpm
+META-INF/maven/org.jbpm
+META-INF/maven
+META-INF/maven/org.jbpm/jbpm-bpmn2
+org/jbpm/bpmn2/xml/di
+org/jbpm/bpmn2/handler
+org/jbpm/bpmn2
+org/jbpm/osgi
+org
+META-INF
+org/jbpm/bpmn2/xpath
+org/jbpm/bpmn2/core
+org/jbpm/bpmn2/xml
+org/jbpm/osgi/bpmn2

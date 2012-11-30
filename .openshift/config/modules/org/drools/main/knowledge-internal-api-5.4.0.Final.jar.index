@@ -1,0 +1,13 @@
+
+org/drools/event/rule
+META-INF/maven
+org/drools/command
+org
+META-INF
+org/drools/fluent
+org/drools
+org/drools/simulation
+org/drools/event
+META-INF/maven/org.drools/knowledge-internal-api
+org/drools/fluent/test
+META-INF/maven/org.drools

@@ -1,0 +1,16 @@
+
+org/switchyard/component/remote/config
+org/switchyard/component/remote
+org/switchyard/config
+META-INF/maven
+org/switchyard/component/remote/config/model
+org
+META-INF
+META-INF/maven/org.switchyard.components
+org/switchyard/component/remote/deploy
+org/switchyard/config/model
+org/switchyard/component
+META-INF/maven/org.switchyard.components/switchyard-component-remote
+META-INF/services
+org/switchyard
+org/switchyard/component/remote/config/model/v1

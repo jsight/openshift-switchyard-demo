@@ -1,0 +1,13 @@
+
+org/apache/batik/gvt/svg12
+org/apache/batik/gvt/flow
+org/apache/batik/gvt/font
+org/apache/batik/gvt
+org/apache/batik
+org/apache/batik/gvt/renderer
+org
+META-INF
+org/apache/batik/gvt/text
+org/apache
+org/apache/batik/gvt/filter
+org/apache/batik/gvt/event

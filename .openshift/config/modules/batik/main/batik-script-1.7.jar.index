@@ -1,0 +1,10 @@
+
+org/apache/batik/script/rhino
+org/apache
+org/apache/batik/script/rhino/svg12
+META-INF/services
+org/apache/batik/script/rhino/resources
+org/apache/batik
+org
+META-INF
+org/apache/batik/script

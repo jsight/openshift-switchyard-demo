@@ -1,0 +1,10 @@
+
+org/apache
+org/apache/batik/util/io/resources
+org/apache/batik/i18n
+org/apache/batik/util/io
+org/apache/batik
+org/apache/batik/util/resources
+org
+org/apache/batik/util
+META-INF

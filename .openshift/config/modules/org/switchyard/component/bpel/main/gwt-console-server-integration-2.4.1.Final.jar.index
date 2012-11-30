@@ -1,0 +1,13 @@
+
+org/jboss/bpm/console
+org/jboss/bpm/console/server/plugin
+org/jboss/bpm
+org/jboss
+META-INF/maven
+org
+META-INF
+META-INF/maven/org.jboss.bpm
+org/jboss/bpm/console/server
+META-INF/maven/org.jboss.bpm/gwt-console-server-integration
+org/jboss/bpm/console/server/utils
+org/jboss/bpm/console/server/integration

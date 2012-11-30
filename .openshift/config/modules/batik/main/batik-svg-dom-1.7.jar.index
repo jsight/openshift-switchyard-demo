@@ -1,0 +1,10 @@
+
+org/apache/batik/dom
+org/apache
+org/apache/batik/dom/svg
+org/apache/batik/dom/svg12
+org/apache/batik/dom/anim
+org/apache/batik/dom/svg/resources
+org/apache/batik
+org
+META-INF

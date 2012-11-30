@@ -1,0 +1,15 @@
+
+org/apache/batik/ext
+org/apache/batik/ext/awt/image/codec
+org/apache/batik/ext/awt/image/codec/imageio
+org/apache/batik/ext/awt/image/codec/png
+org/apache/batik
+org
+META-INF
+org/apache/batik/ext/awt/image
+org/apache/batik/ext/awt
+org/apache
+org/apache/batik/ext/awt/image/codec/util
+META-INF/services
+org/apache/batik/ext/awt/image/codec/jpeg
+org/apache/batik/ext/awt/image/codec/tiff

@@ -1,0 +1,16 @@
+
+org/jboss/soa
+org/wso2/carbon
+org/wso2/carbon/bpel/ui/bpel2svg
+META-INF/maven
+org/jboss
+org/wso2/carbon/bpel/ui/bpel2svg/impl
+org/wso2
+org
+META-INF
+org/wso2/carbon/bpel
+org/jboss/soa/bpel
+META-INF/maven/org.riftsaw.console
+META-INF/maven/org.riftsaw.console/riftsaw-bpel2svg
+org/jboss/soa/bpel/bpel2svg
+org/wso2/carbon/bpel/ui

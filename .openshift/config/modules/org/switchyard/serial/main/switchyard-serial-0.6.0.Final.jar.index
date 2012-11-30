@@ -1,0 +1,15 @@
+
+org/switchyard/serial
+org/switchyard/serial/graph/node
+org/switchyard/serial/format
+META-INF/maven
+META-INF/maven/org.switchyard/switchyard-serial
+org
+META-INF
+META-INF/maven/org.switchyard
+META-INF/services
+org/switchyard/serial/spi
+org/switchyard
+org/switchyard/serial/compress
+org/switchyard/serial/graph
+org/switchyard/serial/pull

@@ -1,0 +1,11 @@
+
+org/apache/batik/dom/events
+org/apache/batik/dom
+org/apache/batik/dom/util
+org/apache
+org/apache/batik/dom/xbl
+org/apache/batik/dom/resources
+org/apache/batik
+org
+META-INF
+org/apache/batik/dom/traversal

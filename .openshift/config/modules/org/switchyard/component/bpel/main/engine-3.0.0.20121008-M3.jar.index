@@ -1,0 +1,14 @@
+
+org/apache/ode
+org/riftsaw/engine/internal
+org/riftsaw/engine
+org/riftsaw/engine/jboss
+META-INF/maven
+org/riftsaw
+org
+META-INF
+META-INF/maven/org.riftsaw/engine
+org/apache
+sqls
+META-INF/maven/org.riftsaw
+org/apache/ode/store

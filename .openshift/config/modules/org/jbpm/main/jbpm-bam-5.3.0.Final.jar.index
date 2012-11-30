@@ -1,0 +1,9 @@
+org/jbpm
+
+org/jbpm/process
+org/jbpm/process/audit
+META-INF/maven/org.jbpm
+META-INF/maven
+org
+META-INF
+META-INF/maven/org.jbpm/jbpm-bam

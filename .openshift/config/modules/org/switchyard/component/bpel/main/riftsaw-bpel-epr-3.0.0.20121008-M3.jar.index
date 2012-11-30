@@ -1,0 +1,17 @@
+
+org/apache/ode
+META-INF/maven/org.jboss.soa.bpel
+org/apache/ode/il/txutil
+org/apache/ode/il
+META-INF/maven
+org/apache/ode/bpel/common/evt
+org/apache/ode/bpel
+org/apache/ode/bpel/epr
+org
+META-INF
+org/apache/ode/il/cache
+org/apache
+org/apache/ode/il/dbutil
+org/apache/ode/il/config
+org/apache/ode/bpel/common
+META-INF/maven/org.jboss.soa.bpel/riftsaw-bpel-epr

@@ -1,0 +1,15 @@
+
+org/switchyard/metadata
+org/switchyard/transform
+META-INF/maven
+org
+META-INF
+org/switchyard/event
+META-INF/maven/org.switchyard/switchyard-api
+META-INF/maven/org.switchyard
+org/switchyard/policy
+org/switchyard/metadata/java
+org/switchyard
+org/switchyard/annotations
+org/switchyard/validate
+org/switchyard/exception

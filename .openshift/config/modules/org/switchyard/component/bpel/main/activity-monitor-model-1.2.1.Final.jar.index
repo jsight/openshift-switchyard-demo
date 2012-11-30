@@ -1,0 +1,14 @@
+
+org/jboss/bpm
+org/jboss/bpm/monitor/model/metric
+org/jboss
+META-INF/maven
+META-INF/maven/org.jboss.bpm/activity-monitor-model
+org/jboss/bpm/monitor/model/bpaf
+org
+META-INF
+META-INF/maven/org.jboss.bpm
+org/jboss/bpm/monitor
+org/jboss/bpm/monitor/model/hibernate
+org/jboss/bpm/monitor/model/json
+org/jboss/bpm/monitor/model

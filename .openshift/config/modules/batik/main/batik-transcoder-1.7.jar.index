@@ -1,0 +1,13 @@
+
+org/apache/batik/transcoder/wmf
+org/apache/batik/transcoder/keys
+org/apache/batik/transcoder/wmf/tosvg
+org/apache/batik
+org
+org/apache/batik/transcoder
+META-INF
+org/apache/batik/transcoder/image/resources
+org/apache/batik/transcoder/image
+org/apache
+org/apache/batik/transcoder/svg2svg
+org/apache/batik/transcoder/print

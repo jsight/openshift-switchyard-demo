@@ -1,0 +1,9 @@
+org/jbpm
+
+META-INF/maven/org.jbpm
+META-INF/maven
+org/jbpm/persistence
+org
+META-INF
+META-INF/maven/org.jbpm/jbpm-persistence-jpa
+org/jbpm/persistence/processinstance

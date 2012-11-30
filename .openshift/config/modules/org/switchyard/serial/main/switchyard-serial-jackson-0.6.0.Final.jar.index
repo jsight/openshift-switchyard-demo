@@ -1,0 +1,12 @@
+
+org/switchyard/serial/jackson
+org/switchyard/serial
+org/switchyard/serial/jackson/format
+META-INF/maven/org.switchyard/switchyard-serial-jackson
+org/switchyard/serial/jackson/spi
+META-INF/maven/org.switchyard
+META-INF/maven
+META-INF/services
+org/switchyard
+org
+META-INF

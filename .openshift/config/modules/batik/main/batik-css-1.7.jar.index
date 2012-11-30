@@ -1,0 +1,17 @@
+org/apache/batik/css/parser
+
+org/apache/batik/css/parser/resources
+org/apache/batik/css/engine/resources
+org/apache/batik/css/engine/value
+org/apache/batik/css/engine/value/svg12
+org/apache/batik/css/engine
+org/apache/batik
+org
+META-INF
+org/apache/batik/css/dom
+org/apache/batik/css
+org/apache/batik/css/engine/sac
+org/apache
+org/apache/batik/css/engine/value/css2
+org/apache/batik/css/engine/value/svg
+org/apache/batik/css/engine/value/resources
